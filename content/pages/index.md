@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: 'Hello, I am Venkata Satya Gowtham Kotha'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am currently pursuing my Master’s in Computer Science at North Carolina
+      State University, USA. With a passion for technology and innovation, I am
+      dedicated to exploring the latest advancements in software development,
+      cloud computing, and data science. Throughout my journey, I have gained
+      hands-on experience in various programming languages and frameworks,
+      striving to make an impact in the tech world.
     styles:
       self:
         height: auto
