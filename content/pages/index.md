@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: 'Hello, I am Venkata Satya Gowtham Kotha'
     subtitle: >-
-      Tech Enthusiast | Master's in Computer Science Pursuing my Master’s at
-      University Of North Texas, USA, with a focus on software development,
-      cloud computing, and data science.
+      Tech Enthusiast | Master's in Computer
+      Science                              Pursuing my Master’s at University Of
+      North Texas, USA, with a focus on software development, cloud computing,
+      and data science.
     styles:
       self:
         height: auto
