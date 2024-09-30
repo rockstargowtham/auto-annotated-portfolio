@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: 'Hello, I am Venkata Satya Gowtham Kotha'
     subtitle: >-
-      I am currently pursuing my Master’s in Computer Science at North Carolina
-      State University, USA. With a passion for technology and innovation, I am
+      I am  pursuing my Master’s in Computer Science at North Carolina State
+      University, USA. With a passion for technology and innovation, I am
       dedicated to exploring the latest advancements in software development,
       cloud computing, and data science. Throughout my journey, I have gained
       hands-on experience in various programming languages and frameworks,
