@@ -4,7 +4,10 @@ title: Andor Tech PVT LTD
 colors: colors-a
 date: ''
 client: Clocr
-description: ''
+description: >-
+  Clocr is a platform for digital legacy planning and asset disbursement,
+  enabling users to organize their digital assets, designate heirs, and share
+  essential information.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
