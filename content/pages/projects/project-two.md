@@ -4,7 +4,13 @@ title: UNT Search Engine
 colors: colors-a
 date: ''
 client: Collage Project
-description: ''
+description: >-
+  Stock Analysis Using Cloudera - Led a group of 4 in using big data tools for
+  analysis of stock market using Hive, Hue, Solr for retrieving information to
+  determine the stock value based on various parameters and graphically
+  displaying the info for monitoring the trends in the market. Carried neural
+  network analysis by learning algos for computing the accuracy of the designed
+  model.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
