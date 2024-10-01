@@ -4,7 +4,11 @@ title: Graduate Instructional Assistant
 colors: colors-a
 date: ''
 client: ''
-description: ''
+description: >-
+  Gained valuable experience in the field of Big Data/Data Science, using
+  cutting-edge technologies such as Hadoop, Hive, Spark, Solr Lucene, Machine
+  Learning, and Neural Networks. Enhanced problem-solving skills and analytical
+  abilities while working on complex data-related projects.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
