@@ -4,10 +4,7 @@ title: Andor Tech PVT LTD
 colors: colors-a
 date: ''
 client: Clocr
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
