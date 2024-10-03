@@ -1,27 +1,17 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/kvs1.jpeg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Gowtham K",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
@@ -36,7 +26,7 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/rockstargowtham",
                 "icon": "github"
             }
         ],
@@ -51,44 +41,37 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "url": "",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/rockstargowtham",
                 "altText": "Netlify templates"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "682-320-5299",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "kotha.satyagowtham@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Dallas, TX",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
