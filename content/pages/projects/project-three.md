@@ -10,7 +10,7 @@ description: >-
   essential information.
 featuredImage:
   type: ImageBlock
-  url: /images/clocr_logo.png
+  url: /images/images.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
