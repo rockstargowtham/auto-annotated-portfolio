@@ -14,6 +14,7 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+  url: /images/bg1.jpg
 ---
 Worked as a IA. Assisted the professor in creating quizzes and preparing question papers, and occasionally taught course topics. This role was instrumental in deepening my subject expertise and enhancing my leadership skills by effectively addressing student queries and explaining complex concepts. 
 
