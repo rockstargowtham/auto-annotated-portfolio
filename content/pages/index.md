@@ -48,7 +48,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/kvs1.jpeg
+      url: /images/GowthamPassportphoto.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
