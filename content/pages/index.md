@@ -48,7 +48,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/GowthamPassportphoto.jpeg
+      url: /images/65148754-ca29-4937-814b-901e28617a94.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
