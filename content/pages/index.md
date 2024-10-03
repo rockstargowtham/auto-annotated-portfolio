@@ -88,7 +88,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Project
+    subtitle: Future Project
     showFeaturedImage: false
     actions: []
     posts:
