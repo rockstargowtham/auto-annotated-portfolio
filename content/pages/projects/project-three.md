@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Andor Tech PVT LTD
 colors: colors-a
-date: ''
+date: '2020-12-03'
 client: Clocr
 description: >-
   Clocr is a platform for digital legacy planning and asset disbursement,
