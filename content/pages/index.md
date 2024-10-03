@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hello, I am SATYA Gowtham Kotha'
+    title: 'Hello, I am SATYA Gowtham Kotha - software developer'
     subtitle: >-
       Tech Enthusiast | Master's in Computer
       Science.                              Completed my Master’s at University
