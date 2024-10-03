@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Graduate Instructional Assistant
 colors: colors-a
-date: ''
+date: '2022-08-03'
 client: ''
 description: >-
   Served as an Instructional Assistant, teaching students and grading
