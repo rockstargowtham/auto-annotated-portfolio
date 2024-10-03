@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: UNT Search Engine
 colors: colors-a
-date: ''
+date: '2024-09-03'
 client: Collage Project
 description: ' Led a 4-person team to implement a search engine using Python''s Beautiful Soup and URL Parser packages, based on Vector Space Algorithm.'
 media:
