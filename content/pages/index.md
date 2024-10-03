@@ -98,8 +98,7 @@ sections:
     subtitle: Future Project
     showFeaturedImage: false
     actions: []
-    posts:
-      - content/pages/blog/post-six.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
