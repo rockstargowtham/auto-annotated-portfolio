@@ -7,7 +7,6 @@ client: College Project
 description: ' Led a 4-person team to implement a search engine using Python''s Beautiful Soup and URL Parser packages, based on Vector Space Algorithm.'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
