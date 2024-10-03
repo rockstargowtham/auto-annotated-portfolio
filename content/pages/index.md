@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     backgroundSize: full
     title: 'Hello, I am Gowtham Kotha'
     subtitle: >-
