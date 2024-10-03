@@ -90,6 +90,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
+    title: PROJECTS
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
