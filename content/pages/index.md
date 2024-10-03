@@ -48,7 +48,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/GowthamPassportphoto.jpeg
+      url: /images/WhatsApp Image 2024-10-03 at 1.41.57 PM.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
