@@ -5,8 +5,8 @@ colors: colors-a
 date: ''
 client: ''
 description: >-
-  I taught the students and corrected their papers and Gained valuable
-  experience in the field of Big Data/Data Science, using cutting-edge
-  technologies such as Hadoop, Hive, Spark, Solr Lucene, Machine Learning, and
-  Neural Networks. 
+  Served as an Instructional Assistant, teaching students and grading
+  assignments, while gaining hands-on experience in Big Data and Data Science
+  utilizing advanced technologies such as Hadoop, Hive, Spark, Solr Lucene,
+  Machine Learning, and Neural Networks.
 ---
