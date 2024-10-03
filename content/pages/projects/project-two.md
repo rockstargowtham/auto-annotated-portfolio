@@ -5,10 +5,6 @@ colors: colors-a
 date: ''
 client: Collage Project
 description: ' Led a 4-person team to implement a search engine using Python''s Beautiful Soup and URL Parser packages, based on Vector Space Algorithm.'
-featuredImage:
-  type: ImageBlock
-  url: /images/unt-logo_university-of-north-texas.png
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
