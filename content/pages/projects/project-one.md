@@ -8,10 +8,6 @@ description: >-
   Gained valuable experience in the field of Big Data/Data Science, using
   cutting-edge technologies such as Hadoop, Hive, Spark, Solr Lucene, Machine
   Learning, and Neural Networks.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg1.jpg
